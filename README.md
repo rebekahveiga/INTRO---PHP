@@ -4,7 +4,8 @@ principais detalhes da linguagem PHP
 PHP - HYPERTEXT PREPROCESSOR or PERSONAL HOME PAGE
 (OPENSOURCE / DEV WEB) LINGUAGEM BACKEND OU SERVER-SIDE
 
-- Características Principais:
+- Características Principais: <br>
+  
   NÃO É LIDA PELO NAVEGADOR, OU SEJA, É INTERPRETADA E RENDERIZADA POR UM SERVIDOR;
   
   NÃO É PROCESSADO DIRETAMENTE PELO NAVEGADOR E SIM PELO SERVIDOR, ISTO É, não pode ser lido diretamente pelo navegador
